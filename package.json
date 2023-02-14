@@ -4,7 +4,10 @@
   "description": "Expansions of acronyms commonly used in ASL projects",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "build": "exit 0",
+    "test": "exit 0",
+    "lint": "eslint .",
+    "audit": "npm audit"
   },
   "repository": {
     "type": "git",

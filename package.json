@@ -24,6 +24,6 @@
     "@ukhomeoffice:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "eslint": "^8.27.0"
+    "eslint": "^8.37.0"
   }
 }

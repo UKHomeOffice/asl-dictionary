@@ -39,7 +39,7 @@ module.exports = {
 
   plural: {
     PIL: 'Personal licences',
-    'PIL-E': 'Personal licences for training and higher education',
+    'PIL-E': 'Personal licences for higher education or training',
     PPL: 'Project licences',
     PEL: 'Establishment licences',
   }
